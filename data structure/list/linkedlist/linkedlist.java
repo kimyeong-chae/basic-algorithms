@@ -135,7 +135,7 @@ public class LinkedList {
 		tail = lastlastNode;
 		return returnNode;
 	}
-	
+
 	// 리스트 사이즈 조회
 	public int size() {
 		return count;
